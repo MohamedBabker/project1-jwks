@@ -1,0 +1,8 @@
+/project1-jwks
+/dist
+/bin
+/build
+coverage.out
+.vscode/
+.idea/
+.DS_Store
