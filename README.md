@@ -30,6 +30,8 @@ make cover
 ## Deliverables
 - Push to GitHub at https://github.com/MohamedBabker/project1-jwks
 - Screenshot: test client working
+- <img width="554" height="198" alt="image" src="https://github.com/user-attachments/assets/88d56a65-f0f5-42ae-9c5f-d844b0fa72c7" />
+
 - Screenshot: coverage output >80%
 - <img width="914" height="276" alt="image" src="https://github.com/user-attachments/assets/b2146e4b-51e2-4a2f-8140-842c27418868" />
 
